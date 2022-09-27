@@ -1,5 +1,5 @@
 Hi there! 👋\
-I'm Samuel, an aspiring full-stack developer. Thanks for checking out my GitHub!
+I'm Samuel, an aspiring developer. Thanks for checking out my GitHub!
 
 ## About Me
 - 🎓 I'm currently an undergraduate at NUS (studying Computer Science)
