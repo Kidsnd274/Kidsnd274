@@ -2,7 +2,6 @@ Hi there! 👋\
 I'm Samuel, an aspiring developer. Thanks for checking out my GitHub!
 
 ## About Me
-- 🎓 I'm currently an undergraduate at NUS (studying Computer Science)
 - 💻 I love anything technology and enjoy messing around with servers
 
 ## 🔗 Socials
